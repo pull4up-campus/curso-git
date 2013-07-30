@@ -1,1 +1,1 @@
-puts "Olá, alunos2"
+puts "Olá, caros alunos"
